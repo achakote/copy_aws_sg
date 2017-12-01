@@ -1,4 +1,4 @@
-import boto3, json
+import boto3
 
 source_sg_list = [ "sg-23342sad", "sg-sdfsf23", "sg-23424dwsdsa" ]
 dest_sg_list   = [ "sg-12sd3131", "sg-sda324", "sg-3612535f" ]
